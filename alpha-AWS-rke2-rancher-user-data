@@ -92,5 +92,3 @@ spec:
     antiAffinity: required
   helmVersion: v3
 EOF
-
-touch /tmp/finished-user-data
